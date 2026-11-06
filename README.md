@@ -28,6 +28,7 @@
 # Задача 4
 
 ![](/images/task4_1.png)
+![](/images/task4_2.png)
 
 # Задача 5
 
