@@ -17,20 +17,20 @@
 
 # Задача 2
 
-!()[/images/task2_1.png]
+![](/images/task2_1.png)
 
 # Задача 3
 
-!()[/images/task3_1]
+![](/images/task3_1.png)
 Ошибка при создании проекта говорит о том, что зона ru-central1-b по состоянию на 06.11.26 недоступна, поэтому невозможно разместить в ней ВМ. Принято решение поместить **netology-develop-platform-db** также в ru-central1-a.
 
 # Задача 4
 
-!()[/images/task4_1.png]
+![](/images/task4_1.png)
 
 # Задача 5
 
-!()[/images/task_5.png]
+![](/images/task_5.png)
 
 # Задача 6
 
