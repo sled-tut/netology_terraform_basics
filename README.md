@@ -37,3 +37,4 @@
 # Задача 6
 
 Добавлены map-переменные **vms_resources** и **common_metadata** в файл ```vms_platform.tf```.
+![](/images/task6_1.png)
