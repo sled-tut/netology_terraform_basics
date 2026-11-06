@@ -3,8 +3,8 @@
 
 # Задача 1
 
-![](/images/task1_1)
-![](/images/task1_2)
+![](/images/task1_1.png)
+![](/images/task1_2.png)
 
 # Задача 2
 
